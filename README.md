@@ -1,5 +1,7 @@
 # Jasper van de Meent
 
+> Audit is not an observation. It is a precondition.
+
 Founder of [Humotica](https://humotica.com). Building open protocols for continuous trust, identity and verification.
 
 First line of code: October 15, 2025.
