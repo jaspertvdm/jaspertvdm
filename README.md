@@ -56,6 +56,8 @@ Together: capture, park, validate, resume — state as a continuum. Evidence-bas
 | [tibet-triage](https://pypi.org/project/tibet-triage/) | UPIP fork tokens, airlock sandbox, flare rescue, I-Poll |
 | [jis-core](https://github.com/Humotica/jis-core) | JIS identity, FIR/A trust, BALANS scoring |
 | [oomllama](https://github.com/Humotica/oomllama) | Sovereign LLM runtime (.oom format, Rust) |
+| [tibet-cmail](https://pypi.org/project/tibet-cmail/) | Capsulated email + command hub over AInternet — Light Mode 0.1.0 live, Sealed Mode 0.2.x in flight |
+| [ipoll](https://pypi.org/project/ipoll/) | AI-to-AI messaging CLI with `--local` / `--ainternet` / `--brein` routing |
 
 ---
 
